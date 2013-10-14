@@ -119,7 +119,8 @@ For more information on using Chef Solo, see http://wiki.opscode.com/display/che
 
 ###RightScale
 
-TODO
+Import and use the latest revision of the ServerTemplate, 'Apache 2'.
+Published and maintained in the MultiCloud Marketplace, http://www.rightscale.com/library/server_templates/Apache-2/lineage/14213.
 
 ##Using Librarian
 
