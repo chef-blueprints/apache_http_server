@@ -1,0 +1,10 @@
+GIT
+  remote: https://github.com/opscode-cookbooks/apache2
+  ref: v1.8.4
+  sha: cdbce5c00e8029081691151b32f66c9d99223d84
+  specs:
+    apache2 (1.8.2)
+
+DEPENDENCIES
+  apache2 (>= 0)
+
